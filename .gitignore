@@ -185,4 +185,6 @@ dmypy.json
 # data
 data/
 /data
+/MNIST_data
+MNIST_data/
 # End of https://www.toptal.com/developers/gitignore/api/macos,jupyternotebooks,python
